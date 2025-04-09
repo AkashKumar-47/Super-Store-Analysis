@@ -47,7 +47,11 @@ The project followed these steps:
        - **Monthly Sales & Profit:** Displays year‐over‐year performance.
        - **Sales by Segment, Region, Payment Mode:** Quickly assess relative contribution of each slice.
        - **KPI Cards:** Show top metrics like total sales, orders, profit, and average shipping days.
-       - **15‐Day Sales Forecast:** Uses built‐in Power BI forecasting to predict short‐term sales.     
+       - **15‐Day Sales Forecast:** Uses built‐in Power BI forecasting to predict short‐term sales.
+    - Filters and Slicers:
+       - Region slicer for geographic focus.
+       - Year & Quarter slicer for time‐based analysis.
+       - A bookmark button to Clear All Filters and return to default view.   
 3. **Analysis & Refinement:**  
    - Iteratively refined the dashboard based on testing, feedback, and exploratory data analysis.
    - Validated insights through cross-checking with the raw dataset.
