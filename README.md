@@ -28,3 +28,10 @@ The dashboard is built around answering the following strategic questions:
 - **Total Orders:** Count of orders placed.
 - **Profit:** Net profit after accounting for returns and expenses.
 - **Average Shipping Days:** Efficiency in the shipping process.
+
+## Process of the Project
+The project followed these steps:
+
+1. **Data Collection & Preprocessing:**  
+   - Imported the SuperStore Sales dataset into Power BI.
+   - Cleaned data to handle missing values, data type conversions, and outliers.
