@@ -51,8 +51,12 @@ The project followed these steps:
     - Filters and Slicers:
        - Region slicer for geographic focus.
        - Year & Quarter slicer for time‐based analysis.
-       - A bookmark button to Clear All Filters and return to default view.   
-3. **Analysis & Refinement:**  
+       - A bookmark button to Clear All Filters and return to default view.
+4. **Forecasting**
+    - Leveraged Power BI’s built‐in forecasting feature on the Sales by Order Date measure.
+    - Produced a 15‐day forecast to anticipate near‐future sales.
+    - Visualized forecast intervals (confidence bands) to understand upper and lower bounds.
+5. **Analysis & Refinement:**  
    - Iteratively refined the dashboard based on testing, feedback, and exploratory data analysis.
    - Validated insights through cross-checking with the raw dataset.
 
