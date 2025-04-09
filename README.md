@@ -50,3 +50,16 @@ The project followed these steps:
 3. **Analysis & Refinement:**  
    - Iteratively refined the dashboard based on testing, feedback, and exploratory data analysis.
    - Validated insights through cross-checking with the raw dataset.
+
+## Project Insights
+Key insights derived from the analysis include:
+- **Category Performance:**  
+  Certain product categories and sub-categories drove higher sales, indicating a focus area for marketing and inventory decisions.
+- **Shipping Efficiency:**  
+  Analysis of shipping modes revealed how operational choices influence the average shipping days.
+- **Geographical Trends:**  
+  Sales varied significantly across different states. Areas with higher sales volumes could signal regional preferences or market opportunities.
+- **Temporal Trends:**  
+  Monthly sales and profit trends highlighted seasonal patterns and potential areas for forecast adjustments.
+- **Customer Segmentation:**  
+  Customer behavior insights (via segments and regions) helped in tailoring marketing strategies to maximize profit and customer satisfaction.
