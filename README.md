@@ -76,7 +76,6 @@ Key insights derived from the analysis include:
   Analyzing sales by segment and region sheds light on priority demographics and regional preferences.
 
 ## Final Conclusion
-The Power BI dashboard offers an interactive tool that simplifies the decision-making process for stakeholders. By visualizing data in various dimensions, the dashboard not only highlights trends but also brings out key performance indicators that support strategic planning. In conclusion:
-- A data-driven approach is critical to optimize operations.
-- The insights can help identify high-performing segments and operational inefficiencies.
-- Future work could integrate predictive analytics for proactive decision-making.
+The Power BI dashboard comprehensively visualizes the SuperStore dataset and extends its utility by providing a 15‐day sales forecast. The forecasting feature helps in strategic planning and resource allocation. In summary:
+- **Data‐Driven Decisions:** Implementing real data insights can drive improved sales strategies and operational efficiencies.
+- **Forecasting Value:** Short‐term forecasts serve as an early alert system for demand fluctuations.
