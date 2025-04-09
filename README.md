@@ -22,3 +22,9 @@ The dashboard is built around answering the following strategic questions:
   What are the monthly sales and profit trends over the years?
 - **Customer Segmentation:**  
   How do sales vary across different segments and regions?
+
+## Key Performance Indicators include:
+- **Total Sales:** Overall revenue from the dataset.
+- **Total Orders:** Count of orders placed.
+- **Profit:** Net profit after accounting for returns and expenses.
+- **Average Shipping Days:** Efficiency in the shipping process.
