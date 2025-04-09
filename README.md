@@ -3,12 +3,14 @@ The goal of this project is to provide an interactive dashboard that gives compr
 
 
 ## Project Objective
-The goal of this project is to provide an interactive dashboard that gives comprehensive insights into the sales performance of the SuperStore dataset. The dashboard helps in understanding:
+The goal of this project is to provide an interactive dashboard that gives comprehensive insights into the SuperStore Sales dataset and offers a short‐term sales forecast to guide business planning. The dashboard helps in understanding:
+
 - Sales trends over time.
 - Performance across different categories, sub-categories, and shipping modes.
 - Geographic distribution of sales using interactive maps.
 - Detailed KPI cards displaying sales, orders, profit, and average shipping days.
 - Comparative analysis based on segments, regions, and payment modes.
+- Short‐term 15‐day forecast to estimate upcoming sales volume and potential demand.
 
 ## Key Questions & KPIs
 The dashboard is built around answering the following strategic questions:
