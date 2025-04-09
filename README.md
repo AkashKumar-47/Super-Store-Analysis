@@ -63,15 +63,17 @@ The project followed these steps:
 ## Project Insights
 Key insights derived from the analysis include:
 - **Category Performance:**  
-  Certain product categories and sub-categories drove higher sales, indicating a focus area for marketing and inventory decisions.
+  Certain product categories and sub-categories drove higher sales, indicating a focus area for marketing and inventory decisions. This underscores the importance of targeting products with higher profit margins or consistent demand.
 - **Shipping Efficiency:**  
-  Analysis of shipping modes revealed how operational choices influence the average shipping days.
+  Shipping mode analysis indicates which methods are popular and how they correlate with average shipping days, helping optimize logistics.
 - **Geographical Trends:**  
-  Sales varied significantly across different states. Areas with higher sales volumes could signal regional preferences or market opportunities.
+  Some states consistently have higher sales volumes, suggesting expansion or marketing campaigns may be beneficial there.
 - **Temporal Trends:**  
-  Monthly sales and profit trends highlighted seasonal patterns and potential areas for forecast adjustments.
+  Monthly sales and profit trends reveal seasonality and growth patterns. These can be tied into promotional schedules.
+- **Short‐Term Forecast**
+  The 15‐day sales forecast offers actionable insights for inventory planning, staffing needs, and marketing pushes. By understanding the upper and lower confidence limits, businesses can mitigate risk and be       prepared for demand surges.
 - **Customer Segmentation:**  
-  Customer behavior insights (via segments and regions) helped in tailoring marketing strategies to maximize profit and customer satisfaction.
+  Analyzing sales by segment and region sheds light on priority demographics and regional preferences.
 
 ## Final Conclusion
 The Power BI dashboard offers an interactive tool that simplifies the decision-making process for stakeholders. By visualizing data in various dimensions, the dashboard not only highlights trends but also brings out key performance indicators that support strategic planning. In conclusion:
