@@ -42,24 +42,12 @@ The project followed these steps:
    - Segmented data by region, category, sub‐category, and shipping mode.
 3. **Dashboard Development in Power BI:**  
    - Visualizations:
-       - **Sales by Category & Sub‐Category** 
-           - Compare performance across product lines.
-
-Map Visualization
-Illustrates state‐level sales with bubble sizes representing sales volume.
-
-Monthly Sales & Profit (stacked area chart)
-Displays year‐over‐year performance.
-
-Sales by Segment, Region, Payment Mode (donut charts)
-Quickly assess relative contribution of each slice.
-
-KPI Cards
-Show top metrics like total sales, orders, profit, and average shipping days.
-
-15‐Day Sales Forecast (line chart)
-Uses built‐in Power BI forecasting to predict short‐term sales.
-     
+       - **Sales by Category & Sub‐Category:** Compare performance across product lines.
+       - **Map Visualization:** Illustrates state‐level sales with bubble sizes representing sales volume.
+       - **Monthly Sales & Profit:** Displays year‐over‐year performance.
+       - **Sales by Segment, Region, Payment Mode:** Quickly assess relative contribution of each slice.
+       - **KPI Cards:** Show top metrics like total sales, orders, profit, and average shipping days.
+       - **15‐Day Sales Forecast:** Uses built‐in Power BI forecasting to predict short‐term sales.     
 3. **Analysis & Refinement:**  
    - Iteratively refined the dashboard based on testing, feedback, and exploratory data analysis.
    - Validated insights through cross-checking with the raw dataset.
