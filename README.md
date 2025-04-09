@@ -35,8 +35,7 @@ The dashboard is built around answering the following strategic questions:
 The project followed these steps:
 
 1. **Data Collection & Preprocessing:**  
-   - Imported the SuperStore Sales dataset into Power BI.
-   - <a href="https://github.com/AkashKumar-47/Super-Store-Analysis/blob/main/SuperStore_Sales_Dataset.csv">Dataset</a>
+   - Imported the <a href="https://github.com/AkashKumar-47/Super-Store-Analysis/blob/main/SuperStore_Sales_Dataset.csv">SuperStore Sales Dataset</a> into Power BI.
    - Cleaned data to handle missing values, data type conversions, and outliers.
 2. **Exploratory Analysis:**
    - Identified high‐level trends in sales, profit, and quantity.
