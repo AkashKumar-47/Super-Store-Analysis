@@ -43,7 +43,7 @@ The project followed these steps:
 3. **Dashboard Development in Power BI:**  
    - Visualizations:
        - **Sales by Category & Sub‐Category** 
-       - Compare performance across product lines.
+           - Compare performance across product lines.
 
 Map Visualization
 Illustrates state‐level sales with bubble sizes representing sales volume.
