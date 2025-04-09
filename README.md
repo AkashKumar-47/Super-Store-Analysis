@@ -36,6 +36,7 @@ The project followed these steps:
 
 1. **Data Collection & Preprocessing:**  
    - Imported the SuperStore Sales dataset into Power BI.
+   - <a href="https://github.com/AkashKumar-47/Super-Store-Analysis/blob/main/SuperStore_Sales_Dataset.csv">Dataset</a>
    - Cleaned data to handle missing values, data type conversions, and outliers.
 2. **Exploratory Analysis:**
    - Identified high‐level trends in sales, profit, and quantity.
@@ -59,6 +60,9 @@ The project followed these steps:
 5. **Analysis & Refinement:**  
    - Iteratively refined the dashboard based on testing, feedback, and exploratory data analysis.
    - Validated insights through cross-checking with the raw dataset.
+
+## Dashboard Image
+![Screenshot 2025-04-09 131140](https://github.com/user-attachments/assets/959749e1-2bf0-4917-88b7-fb5777a4790b)
 
 ## Project Insights
 Key insights derived from the analysis include:
