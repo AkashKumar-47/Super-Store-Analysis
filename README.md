@@ -35,3 +35,18 @@ The project followed these steps:
 1. **Data Collection & Preprocessing:**  
    - Imported the SuperStore Sales dataset into Power BI.
    - Cleaned data to handle missing values, data type conversions, and outliers.
+
+2. **Dashboard Development in Power BI:**  
+   - **Visualizations:**  
+     - Created a clustered bar chart for sales across categories, sub-categories, and shipping modes.
+     - Developed a map visualization showing state-wise sales with bubble size representing sales volume.
+     - Built a stacked area chart for monthly trends in sales and profit.
+     - Designed a donut chart for sales by segment, region, and payment mode.
+     - Added KPI cards for key metrics (sales, orders, profit, average shipping days).
+   - **Filters and Slicers:**  
+     - Incorporated slicers for region and time (years and quarters).
+     - Integrated a bookmark to clear all filters, enhancing user navigation.
+     
+3. **Analysis & Refinement:**  
+   - Iteratively refined the dashboard based on testing, feedback, and exploratory data analysis.
+   - Validated insights through cross-checking with the raw dataset.
